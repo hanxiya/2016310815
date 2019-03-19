@@ -2,8 +2,7 @@
 For personal learning and practice
 - - - - - -
 ## Course Information
-* 18 weeks duration in CUFE
-* 19:20-21:00 every Wednesday
+* 19:20-21:00 every Wednesday, 18 weeks duration
 * Room 105, the main building
 - - - - - - 
 ## Handouts
