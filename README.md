@@ -14,7 +14,7 @@ For personal learning and practice
 * [L04: Python-from-Scratch](https://github.com/feng-li/tools-for-data-science/tree/master/L03-Python-from-Scratch)
 
 
-## personal Information
+## Personal Information
 * Han Xiya
 * School of Statistics and Mathematics, Central Univesity of Finance and Economics
 * syahan@foxmal.com
